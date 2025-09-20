@@ -205,4 +205,4 @@ else:
     d1.metric("Price (adj.)", f"${r['eff_p_det']:,.2f}")
     d2.metric("Cost (adj.)", f"${r['eff_c_det']:,.2f}")
     d3.metric("Salvage (adj.)", f"${r['eff_s_det']:,.2f}")
-# Commiting my code
+# Commiting my code 2
